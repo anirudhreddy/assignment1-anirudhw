@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\images\1105971-playville-jailbreak-rush.jpg" />
     <Content Include="camo.html" />
     <Content Include="css\images\1105971-playville-jailbreak-rush.jpg" />
     <Content Include="css\main.css" />
